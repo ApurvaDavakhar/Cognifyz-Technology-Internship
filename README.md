@@ -1,1 +1,1 @@
-# Cognifyz-Technology-Internship-Level1
+# Cognifyz-Technology-Internship
